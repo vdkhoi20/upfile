@@ -1,6 +1,7 @@
 
 # Trợ Lí Sức Khỏe Thông Minh
-https://a9c2bc5e1390f84163.gradio.live/
+
+https://8781dc2aae1c17f267.gradio.live/
 **Group ID: 01**
 
 **Members:**
